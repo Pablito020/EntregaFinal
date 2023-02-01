@@ -309,11 +309,3 @@ const stockProductos = [
    localStorage.clear()
   
    }
-
-   //Voy a hacer un catch y fetch por si las moscas para que me tome lo que es el api.json por si el local no me lo toma
-
-   //document.addEventListener('DOMContentLoaded', () =>{ fetchData() })
-
-  //const fetchData = async () => { try{ const respuesta = await fetch('api.json') const data = await respuesta.json()
-  //console.log(data)} catch (error) {
-  //console.log(error)  } }
