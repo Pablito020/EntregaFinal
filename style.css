@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: white;
+}
+
+.fontheader{
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+footer{
+    background-image: url(https://wallpapercave.com/wp/wp6148069.png);  
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.mtb{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.centro{
+    text-align: center;
+}
+
+
+.fontfooter{
+    text-decoration: dotted;
+    color: white;
+    font-size: 30px;
+}
+
+.container-fluid{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.mt10{
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+
+.img-carrito{
+    width:200px;
+    padding:20px;
+} 
